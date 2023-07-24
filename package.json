@@ -1,16 +1,28 @@
 {
   "name": "serverless-cache-deploy",
   "version": "1.0.0",
-  "description": "",
+  "description": "![imagem](docs/diagram.jpeg)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "George Lobo",
   "license": "ISC",
   "dependencies": {
     "@aws-sdk/client-lambda": "^3.370.0",
     "fs-extra": "^11.1.1"
-  }
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolff453/serverless-cache-deploy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wolff453/serverless-cache-deploy/issues"
+  },
+  "homepage": "https://github.com/wolff453/serverless-cache-deploy#readme"
 }
