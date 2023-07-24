@@ -1,6 +1,6 @@
 # serverless-cache-deploy
 
-## This plugin cache the serverless.yml file and not create the cloudformation stack if dont have changes.
+## This plugin caches serverless.yml and if there is no change in deploy,it just updates the function code
 
 ![imagem](docs/diagram.jpeg)
 
