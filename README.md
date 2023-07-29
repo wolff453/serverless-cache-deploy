@@ -1,5 +1,7 @@
 # serverless-cache-deploy
 
+# If you found a bug, please open an issue.
+
 ## This plugin caches serverless.yml and if there is no change in deploy,it just updates the function code
 
 ![imagem](docs/diagram.jpeg)

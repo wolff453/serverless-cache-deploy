@@ -1,6 +1,6 @@
 {
   "name": "serverless-cache-deploy",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "![imagem](docs/diagram.jpeg)",
   "main": "index.js",
   "scripts": {
